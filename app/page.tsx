@@ -3,8 +3,11 @@
 import { useEffect, useRef, useState } from "react";
 
 const IMAGES = [
-  "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?q=80&w=2000&auto=format&fit=crop",
-  "https://images.unsplash.com/photo-1520975916090-3105956dac38?q=80&w=2000&auto=format&fit=crop",
+  "https://lobby-rotator-next.vercel.app/couch.png",
+  "https://lobby-rotator-next.vercel.app/hootow.png",
+  "https://lobby-rotator-next.vercel.app/jd.png",
+  "https://lobby-rotator-next.vercel.app/CHIP.png",
+  "https://lobby-rotator-next.vercel.app/solarcar.png",    
 ];
 
 const PERIOD_MS = 10000;
